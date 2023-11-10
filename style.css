@@ -11,3 +11,7 @@ p {
 em strong{
     color: #f0000f;
 }
+
+.itens {
+    font-style: italic;
+}
